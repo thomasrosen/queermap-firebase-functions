@@ -1,4 +1,4 @@
-# Qiekub QueerMap Api
+# Qiekub Queer Map Api
 
 A map of community centers and other helpful information for queer (LGBTQ) people.
 
